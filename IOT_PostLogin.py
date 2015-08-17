@@ -15,7 +15,7 @@ ADDR = (HOST, PORT)
 
 
 while True:
-    values = values+2;
+    values = values+1;
     Content = "{\"datastreams\":[{\"id\": \"temperature\",\"datapoints\": [{\"value\": "+str(values)+"}]},"
     Content +="{\"id\": \""+desc_id+"\",\"datapoints\": [{\"value\": "+str(values*2)+"}]}]}\r\n"
     value = len(Content)
