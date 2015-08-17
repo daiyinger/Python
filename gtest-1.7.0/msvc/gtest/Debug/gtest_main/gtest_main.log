@@ -1,0 +1,20 @@
+﻿生成启动时间为 2015-6-24 11:18:12。
+     1>项目“E:\DrDaifiles\sc000\HaimaSC00文件\其他\续航里程研究\ArdiunoHttpSDK-master\ArduinoJson-master\third-party\gtest-1.7.0\msvc\gtest_main.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“gtest/Debug\gtest_main\gtest_main.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.. /I..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"gtest/Debug\gtest_main\\" /Fd"gtest/Debug\gtest_main\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\gtest_main.cc
+         gtest_main.cc
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(E:\DrDaifiles\sc000\HaimaSC00文件\其他\续航里程研究\ArdiunoHttpSDK-master\ArduinoJson-master\third-party\gtest-1.7.0\msvc\gtest/Debug\gtest_main.lib) 与 Library 的 OutputFile 属性值(E:\DrDaifiles\sc000\HaimaSC00文件\其他\续航里程研究\ArdiunoHttpSDK-master\ArduinoJson-master\third-party\gtest-1.7.0\msvc\gtest\Debug\gtest_maind.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(gtest_main) 与 Library 的 OutputFile 属性值(gtest_maind)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"gtest/Debug\gtest_maind.lib" /NOLOGO gtest/Debug\gtest_main\gtest_main.obj
+         gtest_main.vcxproj -> E:\DrDaifiles\sc000\HaimaSC00文件\其他\续航里程研究\ArdiunoHttpSDK-master\ArduinoJson-master\third-party\gtest-1.7.0\msvc\gtest/Debug\gtest_main.lib
+       FinalizeBuildStatus:
+         正在删除文件“gtest/Debug\gtest_main\gtest_main.unsuccessfulbuild”。
+         正在对“gtest/Debug\gtest_main\gtest_main.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\DrDaifiles\sc000\HaimaSC00文件\其他\续航里程研究\ArdiunoHttpSDK-master\ArduinoJson-master\third-party\gtest-1.7.0\msvc\gtest_main.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.46

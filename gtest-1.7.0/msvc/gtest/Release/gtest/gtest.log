@@ -1,0 +1,18 @@
+﻿生成启动时间为 2015-6-24 11:18:39。
+     1>项目“E:\DrDaifiles\sc000\HaimaSC00文件\其他\续航里程研究\ArdiunoHttpSDK-master\ArduinoJson-master\third-party\gtest-1.7.0\msvc\gtest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“gtest/Release\gtest\gtest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.. /I..\include /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _LIB /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"gtest/Release\gtest\\" /Fd"gtest/Release\gtest\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\src\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"gtest/Release\gtest.lib" /NOLOGO "gtest/Release\gtest\gtest-all.obj"
+         gtest.vcxproj -> E:\DrDaifiles\sc000\HaimaSC00文件\其他\续航里程研究\ArdiunoHttpSDK-master\ArduinoJson-master\third-party\gtest-1.7.0\msvc\gtest/Release\gtest.lib
+       FinalizeBuildStatus:
+         正在删除文件“gtest/Release\gtest\gtest.unsuccessfulbuild”。
+         正在对“gtest/Release\gtest\gtest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\DrDaifiles\sc000\HaimaSC00文件\其他\续航里程研究\ArdiunoHttpSDK-master\ArduinoJson-master\third-party\gtest-1.7.0\msvc\gtest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.53
